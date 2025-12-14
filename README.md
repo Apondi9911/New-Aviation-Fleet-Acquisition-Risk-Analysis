@@ -5,7 +5,7 @@
 This analysis uses the aviation dataset to allow us to quantify the overall risk associated with different types of aircraft and identify which configurations have historically demonstrated safer performance to determine the Fleet acquisition as a new business venture.Specifically, using aircraft category, engine type, number of engines, and manufacturer (make) relate to historical accident outcomes, including injury severity, aircraft damage, and counts of fatal, serious, minor, and uninjured passengers. By interpreting injury and damage patterns across manufacturers and engine setups, we can provide clear guidance on which fleet pose lower operational risk and are therefore better suited for our company’s entry into commercial and private aviation services.
 
 ## Overview
-The goal of this analysis is to help the company enter the aviation sector by identifying low-risk fleet using historical accident data from the National Transportation Safety Board (NTSB).
+
 This is how this study has been achieved:
 
 - Analyzed 60 years of aircraft accident records
